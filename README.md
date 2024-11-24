@@ -2,7 +2,7 @@
 
 A modern, responsive error page template specifically designed for banking and financial applications. Built with Tailwind CSS, this template provides a professional way to display transaction errors while maintaining user trust and providing clear next steps.
 
-![OPay Error Page Preview](/api/placeholder/800/400)
+![ Error Page Preview](/api/placeholder/800/400)
 
 ## 🌟 Features
 
@@ -25,8 +25,8 @@ A modern, responsive error page template specifically designed for banking and f
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/bank-transfer-error-page.git
-cd bank-transfer-error-page
+git clone https://github.com/ktalib/BankTransferErrorPage.git
+cd BankTransferErrorPage
 ```
 
 2. **Include Required CDNs**
@@ -79,7 +79,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#1D8753',  // OPay green
+        primary: '#1D8753',  
         error: '#EF4444',    // Error red
         // Add your custom colors
       }
@@ -126,12 +126,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Tailwind CSS team for the amazing framework
 - Font Awesome for the icons
-- OPay for design inspiration
 
 ## 📞 Support
 
-For support, email support@example.com or open an issue in the repository.
+For support, email iorkuakator@gmail.com or open an issue in the repository.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Daniel
