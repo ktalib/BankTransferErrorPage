@@ -2,7 +2,9 @@
 
 A modern, responsive error page template specifically designed for banking and financial applications. Built with Tailwind CSS, this template provides a professional way to display transaction errors while maintaining user trust and providing clear next steps.
 
-![ Error Page Preview](/api/placeholder/800/400)
+![ Error Page Preview](/a.png)
+![ Error Page Preview](/b.png)
+ 
 
 ## 🌟 Features
 
